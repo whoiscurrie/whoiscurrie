@@ -40,7 +40,7 @@ A Python-based toolkit designed for auditing wireless networks, created as part 
 ✅ Built for educational use and CTF training to demonstrate real-world wireless security vulnerabilities.  
 🔧 Tech used: `Python`, `Aircrack-ng`, `Kali Linux`, `Bash`  
 📎 [View on GitHub »](https://github.com/whoiscurrie/hackwifi)
-
+---
 ## 🏆 CTF Writeups
 ### 🔐 Lessons Learned – TryHackMe  
 A walkthrough of a web-based CTF challenge focused on real-world login bypass techniques, safe SQL injection testing, and security best practices.  
@@ -51,7 +51,7 @@ A walkthrough of a web-based CTF challenge focused on real-world login bypass te
 - Detailed explanation of the real-world dangers of careless payloads  
 - Emphasized the importance of responsible testing methods  
 📄 [Read the full report on Notion](https://www.notion.so/Lessons-Learned-THM-79335f2ba80444049df5708523d8f0d2?pvs=4)
-
+---
 ### 🧱 Brick Heist – TryHackMe  
 A fun and educational beginner-level CTF challenge simulating a bank heist scenario. This project tested skills in enumeration, exploitation, and privilege escalation.  
 - Scanned for open services and vulnerabilities using Nmap  
@@ -60,7 +60,7 @@ A fun and educational beginner-level CTF challenge simulating a bank heist scena
 - Gained initial access and escalated privileges to root  
 - Demonstrated persistence and systematic attack methodology  
 📄 [Read the full report on Notion](https://www.notion.so/Brick-Heist-THM-11722cd1659c80aead13c91995bb725f?pvs=4)
-
+---
 ### 🧀 Cheese – TryHackMe  
 A humorous but insightful beginner-level CTF focused on basic web exploitation and privilege escalation.  
 - Performed port scanning and service enumeration using Nmap  
@@ -69,7 +69,7 @@ A humorous but insightful beginner-level CTF focused on basic web exploitation a
 - Conducted local enumeration to find misconfigurations and escalated privileges to root  
 - Reinforced understanding of Linux permissions and secure web dev practices  
 📄 [Read the full report on Notion](https://www.notion.so/Cheese-THM-c288e2bb13f14c4ea90b5b3e35761c01?pvs=4)
-
+---
 ### 🧨 Simple CTF – TryHackMe  
 A beginner-friendly Capture The Flag challenge emphasizing fundamental Linux enumeration and privilege escalation.  
 - Scanned for open ports and identified services using Nmap  
@@ -78,7 +78,7 @@ A beginner-friendly Capture The Flag challenge emphasizing fundamental Linux enu
 - Escalated privileges by exploiting SUID binaries and PATH manipulation  
 - Strengthened my grasp of basic Linux privilege escalation vectors  
 📄 [Read the full report on Notion](https://www.notion.so/Simple-CTF-THM-11822cd1659c80dabb45e92fa7c7a8bd?pvs=4)
-
+---
 ### 📰 Publisher – TryHackMe  
 A medium-difficulty CTF focused on exploiting a web-based CMS to gain remote access and escalate privileges.  
 - Performed web enumeration to identify the CMS and login endpoints  
@@ -87,7 +87,7 @@ A medium-difficulty CTF focused on exploiting a web-based CMS to gain remote acc
 - Achieved privilege escalation by leveraging SUID binaries and system misconfigurations  
 - Practiced persistence and log analysis techniques after root access  
 📄 [Read the full report on Notion](https://www.notion.so/Publisher-THM-11922cd1659c807bbd66d09e3f1ae6d1?pvs=4)
-
+---
 ### 🧩 RootMe – TryHackMe  
 An intermediate-level CTF that focuses on compromising a vulnerable machine through a series of web and network exploitation techniques.  
 - Enumerated the system to identify open ports and services  
