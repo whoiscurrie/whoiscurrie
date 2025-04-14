@@ -63,8 +63,6 @@ A walkthrough of a web-based CTF challenge focused on real-world login bypass te
 - Intercepted HTTP traffic using Burp Suite  
 - Brute-forced login form with Hydra  
 - Successfully bypassed login via SQL Injection (`OR 1=1`)  
-- Detailed explanation of the real-world dangers of careless payloads  
-- Emphasized the importance of responsible testing methods  
 📄 [Read the full report on Notion](https://www.notion.so/Lessons-Learned-THM-79335f2ba80444049df5708523d8f0d2?pvs=4)
 ---
 ### 🧱 Brick Heist – TryHackMe  
