@@ -49,6 +49,11 @@ A detailed lab project focused on deploying Samba as an Active Directory Domain 
 🔧 Tech used: `Ubuntu Server`, `Samba`, `Kerberos`, `Windows RSAT`, `Bash`  
 📎 [View on GitHub »](https://github.com/whoiscurrie/Installing-and-Configuring-Samba-for-Active-Directory)
 
+### 🌐 VPN Server Configuration  
+A comprehensive guide for configuring secure remote access via VPN using SSTP and L2TP/IPSec on a Windows Server domain. This guide covers the setup of Certificate Services (CA), RRAS, firewall rules, and user management.  
+✅ Built for secure remote access deployment and VPN configuration practice.  
+🔧 Tech used: `Windows Server 2019+`, `SSTP`, `L2TP/IPSec`, `Certificate Services`, `RRAS`, `PowerShell`  
+📎 [View on GitHub »](https://github.com/whoiscurrie/vpn-configuration-docs/blob/main/README.md)
 
 ---
 ## 🏆 CTF Writeups
