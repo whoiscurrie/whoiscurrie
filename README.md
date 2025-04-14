@@ -37,9 +37,7 @@ To secure a **Tier 1 SOC Analyst** or cybersecurity-related role where I can app
 
 ## 🧪 Projects
 
-### 🔐 TCP Chatroom  
-- Built a secure **TCP-based chatroom** using Python for encrypted, private messaging between users.  
-- Demonstrated strong networking and cryptography concepts.
+
 
 ---
 
