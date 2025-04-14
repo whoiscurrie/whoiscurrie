@@ -34,7 +34,6 @@ To secure a **Tier 1 SOC Analyst** or cybersecurity-related role where I can app
 - Maintained equipment and ensured optimal operation of school IT infrastructure.
 
 ---
-
 ## 🧪 Projects
 ### 🔓 HackWiFi – Wireless Network Penetration Testing Toolkit  
 A Python-based toolkit designed for auditing wireless networks, created as part of my penetration testing practice. This project automates Wi-Fi scanning, handshake capture, and deauthentication attacks using tools like `airodump-ng` and `aireplay-ng`.  
