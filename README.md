@@ -42,7 +42,7 @@ A Python-based toolkit designed for auditing wireless networks, created as part 
 🔧 Tech used: `Python`, `Aircrack-ng`, `Kali Linux`, `Bash`  
 📎 [View on GitHub »](https://github.com/whoiscurrie/hackwifi)
 
-## CTF Writeups
+## 🏆 CTF Writeups
 ### 🔐 Lessons Learned – TryHackMe  
 A walkthrough of a web-based CTF challenge focused on real-world login bypass techniques, safe SQL injection testing, and security best practices.  
 - Performed port scanning with Nmap  
