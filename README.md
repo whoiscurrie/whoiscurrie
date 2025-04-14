@@ -42,9 +42,13 @@ A Python-based toolkit designed for auditing wireless networks, created as part 
 🔧 Tech used: `Python`, `Aircrack-ng`, `Kali Linux`, `Bash`  
 📎 [View on GitHub »](https://github.com/whoiscurrie/hackwifi)
 
-- **Installing and Configuring Samba for Active Directory**  
-  Set up Samba as an Active Directory Domain Controller on Ubuntu, including Kerberos, DNS, OUs, and user management.  
-  👉 [Read the full guide](https://github.com/whoiscurrie/Installing-and-Configuring-Samba-for-Active-Directory/blob/main/installing_samba.md)
+
+### 🖧 Installing and Configuring Samba for Active Directory  
+A detailed lab project focused on deploying Samba as an Active Directory Domain Controller on Ubuntu. This walkthrough includes Kerberos setup, DNS configuration, user and OU management, and Windows domain integration.  
+✅ Built for system administration practice, networking coursework, and hands-on experience with enterprise-grade directory services.  
+🔧 Tech used: `Ubuntu Server`, `Samba`, `Kerberos`, `Windows RSAT`, `Bash`  
+📎 [View on GitHub »](https://github.com/whoiscurrie/Installing-and-Configuring-Samba-for-Active-Directory)
+
 
 ---
 ## 🏆 CTF Writeups
