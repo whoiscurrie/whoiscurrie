@@ -35,11 +35,16 @@ To secure a **Tier 1 SOC Analyst** or cybersecurity-related role where I can app
 
 ---
 ## 🧪 Projects
+
 ### 🔓 HackWiFi – Wireless Network Penetration Testing Toolkit  
 A Python-based toolkit designed for auditing wireless networks, created as part of my penetration testing practice. This project automates Wi-Fi scanning, handshake capture, and deauthentication attacks using tools like `airodump-ng` and `aireplay-ng`.  
 ✅ Built for educational use and CTF training to demonstrate real-world wireless security vulnerabilities.  
 🔧 Tech used: `Python`, `Aircrack-ng`, `Kali Linux`, `Bash`  
 📎 [View on GitHub »](https://github.com/whoiscurrie/hackwifi)
+
+- **Installing and Configuring Samba for Active Directory**  
+  Set up Samba as an Active Directory Domain Controller on Ubuntu, including Kerberos, DNS, OUs, and user management.  
+  👉 [Read the full guide](https://github.com/whoiscurrie/Installing-and-Configuring-Samba-for-Active-Directory/blob/main/installing_samba.md)
 
 ---
 ## 🏆 CTF Writeups
