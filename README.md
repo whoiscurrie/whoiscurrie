@@ -1,4 +1,3 @@
-# 👋 Hi there, I'm Wayne Currie  
 ## 🧪 Projects
 
 ### 🔓 HackWiFi – Wireless Network Penetration Testing Toolkit  
