@@ -19,4 +19,10 @@ A comprehensive guide for configuring secure remote access via VPN using SSTP an
 🔧 Tech used: `Windows Server 2019+`, `SSTP`, `L2TP/IPSec`, `Certificate Services`, `RRAS`, `PowerShell`  
 📎 [View on GitHub »](https://github.com/whoiscurrie/vpn-configuration-docs/blob/main/README.md)
 
+### 🖧 Cisco Switch Configuration Guide  
+A comprehensive collection of essential configuration commands and best practices for Cisco switches, covering fundamental networking concepts required for practical network administration. This guide includes setup instructions for port security, VLANs, trunking, VTP, STP, and SSH configuration.  
+✅ Built for networking lab practice and real-world switch deployment scenarios.  
+🔧 Tech used: `Cisco IOS`, `Packet Tracer`, `VLANs`, `802.1Q Trunking`, `SSH`, `Spanning Tree Protocol`  
+📎 [View on GitHub »](https://github.com/whoiscurrie/Cisco-Switch-Configuration-Guide)
+
 
